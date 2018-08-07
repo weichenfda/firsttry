@@ -1,4 +1,4 @@
 # firsttry
 first repository
 
-This repository is for testing purpuse, 170502.
+This repository is for testing purpuse, with an update, 180807.
